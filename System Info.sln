@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "System Info", "System Info\System Info.vbproj", "{77FD6920-A01A-4547-8437-5229095DB31F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77FD6920-A01A-4547-8437-5229095DB31F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77FD6920-A01A-4547-8437-5229095DB31F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77FD6920-A01A-4547-8437-5229095DB31F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77FD6920-A01A-4547-8437-5229095DB31F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

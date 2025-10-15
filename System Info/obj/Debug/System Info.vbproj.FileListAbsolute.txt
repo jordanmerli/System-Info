@@ -1,0 +1,63 @@
+C:\Users\ZAMESHKUMAR\Documents\Visual Studio 2008\Projects\System Info\System Info\bin\Debug\System Info.exe
+C:\Users\ZAMESHKUMAR\Documents\Visual Studio 2008\Projects\System Info\System Info\bin\Debug\System Info.pdb
+C:\Users\ZAMESHKUMAR\Documents\Visual Studio 2008\Projects\System Info\System Info\bin\Debug\System Info.xml
+C:\Users\ZAMESHKUMAR\Documents\Visual Studio 2008\Projects\System Info\System Info\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ZAMESHKUMAR\Documents\Visual Studio 2008\Projects\System Info\System Info\obj\Debug\System_Info.Form1.resources
+C:\Users\ZAMESHKUMAR\Documents\Visual Studio 2008\Projects\System Info\System Info\obj\Debug\System_Info.Resources.resources
+C:\Users\ZAMESHKUMAR\Documents\Visual Studio 2008\Projects\System Info\System Info\obj\Debug\System Info.vbproj.GenerateResource.Cache
+C:\Users\ZAMESHKUMAR\Documents\Visual Studio 2008\Projects\System Info\System Info\obj\Debug\System Info.exe
+C:\Users\ZAMESHKUMAR\Documents\Visual Studio 2008\Projects\System Info\System Info\obj\Debug\System Info.xml
+C:\Users\ZAMESHKUMAR\Documents\Visual Studio 2008\Projects\System Info\System Info\obj\Debug\System Info.pdb
+D:\System Info\System Info\bin\Debug\System Info.exe
+D:\System Info\System Info\bin\Debug\System Info.pdb
+D:\System Info\System Info\bin\Debug\System Info.xml
+D:\System Info\System Info\obj\Debug\ResolveAssemblyReference.cache
+D:\System Info\System Info\obj\Debug\System_Info.Form1.resources
+D:\System Info\System Info\obj\Debug\System_Info.Resources.resources
+D:\System Info\System Info\obj\Debug\System Info.vbproj.GenerateResource.Cache
+D:\System Info\System Info\obj\Debug\System Info.exe
+D:\System Info\System Info\obj\Debug\System Info.xml
+D:\System Info\System Info\obj\Debug\System Info.pdb
+D:\System Info\System Info\obj\Debug\System_Info.About.resources
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Infor\System Info\obj\Debug\System Info.exe
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Infor\System Info\obj\Debug\System Info.xml
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Infor\System Info\obj\Debug\System Info.pdb
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Infor\System Info\bin\Debug\System Info.exe
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Infor\System Info\bin\Debug\System Info.pdb
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Infor\System Info\bin\Debug\System Info.xml
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Infor\System Info\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Infor\System Info\obj\Debug\System_Info.Form1.resources
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Infor\System Info\obj\Debug\System_Info.Resources.resources
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Infor\System Info\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Infor\System Info\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Info\System Info\obj\Debug\System Info.exe
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Info\System Info\obj\Debug\System Info.xml
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Info\System Info\obj\Debug\System Info.pdb
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Info\System Info\bin\Debug\System Info.exe
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Info\System Info\bin\Debug\System Info.pdb
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Info\System Info\bin\Debug\System Info.xml
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Info\System Info\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Info\System Info\obj\Debug\System_Info.Form1.resources
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Info\System Info\obj\Debug\System_Info.Resources.resources
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Info\System Info\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MERLI\Desktop\Giada & Jordan\Nanoteck™\Progetti\Revisionati dal 01.12.2012\System Info\System Info\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\MERLI\Desktop\System Info\System Info\obj\Debug\System Info.exe
+C:\Users\MERLI\Desktop\System Info\System Info\obj\Debug\System Info.xml
+C:\Users\MERLI\Desktop\System Info\System Info\obj\Debug\System Info.pdb
+C:\Users\MERLI\Desktop\System Info\System Info\bin\Debug\System Info.exe
+C:\Users\MERLI\Desktop\System Info\System Info\bin\Debug\System Info.pdb
+C:\Users\MERLI\Desktop\System Info\System Info\bin\Debug\System Info.xml
+C:\Users\MERLI\Desktop\System Info\System Info\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MERLI\Desktop\System Info\System Info\obj\Debug\System_Info.Form1.resources
+C:\Users\MERLI\Desktop\System Info\System Info\obj\Debug\System_Info.Resources.resources
+C:\Users\MERLI\Desktop\System Info\System Info\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\MERLI\Desktop\System Info\System Info\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\rstore\Box Sync\Progetti\System Info\System Info\System Info\obj\Debug\System Info.exe
+C:\Users\rstore\Box Sync\Progetti\System Info\System Info\System Info\obj\Debug\System Info.xml
+C:\Users\rstore\Box Sync\Progetti\System Info\System Info\System Info\obj\Debug\System Info.pdb
+C:\Users\rstore\Box Sync\Progetti\System Info\System Info\System Info\bin\Debug\System Info.exe
+C:\Users\rstore\Box Sync\Progetti\System Info\System Info\System Info\bin\Debug\System Info.pdb
+C:\Users\rstore\Box Sync\Progetti\System Info\System Info\System Info\bin\Debug\System Info.xml
+C:\Users\rstore\Box Sync\Progetti\System Info\System Info\System Info\obj\Debug\System_Info.Form1.resources
+C:\Users\rstore\Box Sync\Progetti\System Info\System Info\System Info\obj\Debug\System_Info.Resources.resources
+C:\Users\rstore\Box Sync\Progetti\System Info\System Info\System Info\obj\Debug\System Info.vbproj.GenerateResource.Cache
